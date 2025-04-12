@@ -1,1 +1,1 @@
-# SW-CPU-Rockchip-Radxa-Display-25
+# SW-CPU-Rockchip-Radxa-Display-22
